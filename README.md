@@ -1,1 +1,0 @@
-# jameshskoh.github.io
