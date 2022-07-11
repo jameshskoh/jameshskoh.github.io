@@ -1,1 +1,0 @@
-import{W as o}from"./WorkInProgress.18f08203.js";import{d as e,e as r,o as t}from"./index.3bba7130.js";import"./plugin-vue_export-helper.21dcd24c.js";const _=e({__name:"About",setup(s){return(a,n)=>(t(),r(o))}});export{_ as default};
