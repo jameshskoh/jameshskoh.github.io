@@ -1,1 +1,0 @@
-import{d as r,p as e,i as n,n as c,g as i,u as s,m as p,o as m}from"./index.b7f5cd86.js";import{_}from"./AppSection.0e3f2991.js";const P=r({__name:"ProjectsRoot",setup(u){const t=e.map(a=>a.abstract);return(a,f)=>(m(),n(_,c(i({abstracts:s(t),section:s(p).find(o=>o.lid===2)})),null,16))}});export{P as default};
